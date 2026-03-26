@@ -30,7 +30,7 @@
 
 - 비대면 금융의 **프레젠테이션 공격(Presentation Attack)** 을 SOTA 모델로 방어
 - FAR/FRR 트레이드오프 기반 비즈니스 목표 연동 임계값 설계
-- 📎 [GitHub 바로가기](https://github.com/dwarves1/face-anti-spoofing)
+- 📎 [GitHub 바로가기](https://github.com/dwarves1/face-auth-mvp)
 
 ---
 
