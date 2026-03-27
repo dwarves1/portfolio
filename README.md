@@ -13,7 +13,7 @@
 | 🎓 [학력 (Education)](./education.md) | 체육학사 → 공학학사 → AI·빅데이터 석사 (진행 중) |
 | 🏆 [자격증 & 교육](./certifications.md) | 정보처리기사, 빅데이터분석기사 외 |
 | 🤝 [단체활동 & 수상](./activities.md) | 멘사코리아, 청년과마을 외 |
-| 💻 [프로젝트 (Projects)](./projects/README.md) | Face Anti-Spoofing, HFT RL Market Making |
+| 💻 [프로젝트 (Projects)](./projects/README.md) | Face Anti-Spoofing, HFT RL Market Making, Daily AI Insight |
 
 <br>
 
@@ -47,20 +47,38 @@
 
 ---
 
+### [🤖 Daily AI Insight — GPT 기반 AI 뉴스 자동 큐레이션](./projects/project3.md)
+> GPT-4o-mini가 매일 아침 7시, 중요도 순으로 AI 뉴스 TOP 10을 자동 선별
+
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+- RSS 피드 수집 → GPT-4o-mini 중요도 분석 → 타이포그래피 카드 UI 자동 게시
+- GitHub Actions로 매일 오전 7시(KST) 완전 자동화
+- 📎 [GitHub 바로가기](https://github.com/dwarves1/daily-ai-insight)
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **AI / ML**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-**Backend / Infra**
+**Frontend / Backend / Infra**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ---

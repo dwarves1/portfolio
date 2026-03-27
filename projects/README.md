@@ -48,4 +48,26 @@
 
 ---
 
+### [🤖 Project 3 — Daily AI Insight (GPT 기반 AI 뉴스 자동 큐레이션)](./project3.md)
+
+> **"매일 아침, GPT가 AI 세계에서 가장 중요한 뉴스 10개를 골라 카드로 보여준다면?"**
+
+RSS 피드 수집부터 GPT 분석, 타이포그래피 카드 UI 게시까지 완전 자동화된 AI 뉴스 큐레이션 서비스.
+
+| 항목 | 내용 |
+|------|------|
+| 기간 | 개인 프로젝트 |
+| 분야 | Full-Stack, LLM Application, DevOps |
+| 스택 | Next.js 14, TypeScript, Python, OpenAI API, Supabase, GitHub Actions |
+| GitHub | [dwarves1/daily-ai-insight](https://github.com/dwarves1/daily-ai-insight) |
+
+**핵심 기능**
+- RSS 피드 실시간 수집 (TechCrunch, OpenAI Blog, MIT Tech Review 등)
+- GPT-4o-mini 기반 중요도 분석 → TOP 10 자동 선별 및 3줄 요약
+- 매일 오전 7시(KST) GitHub Actions 자동 실행
+
+[→ 자세히 보기](./project3.md)
+
+---
+
 [← 홈으로](../README.md)
